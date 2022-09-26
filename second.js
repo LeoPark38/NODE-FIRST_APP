@@ -1,1 +1,0 @@
-console.log("Hello from Node2.js");
